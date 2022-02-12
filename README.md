@@ -3,7 +3,7 @@
 
 This Repository will hold all of the code and queries from MY Portfolio Projects.
 
-## ABOUT THE FIRST PRJECT 
+## ABOUT THE FIRST PROJECT 
 
 ###  **Understanding Kickstarter:**
 
